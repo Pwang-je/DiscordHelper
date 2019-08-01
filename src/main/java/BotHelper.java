@@ -116,7 +116,6 @@ public class BotHelper {
                   + "/p 주사위 짤짤이 잘 깰것.\n"
                   + "/p 칼막을때 서브탱은 3시 -> 6시 -> 9시 돌면서 구슬먹을것.\n"
                   + "/p 용기사님 점프 조심좀.!important \n"
-                  + "/p 용기사님 점프좀.\n"
                   + "/p 용기사님 점프...\n"
                   + "/p 아 제발..\n");
             } else if(message.getContent().equals("극 츠쿠요미")) {
